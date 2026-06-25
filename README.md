@@ -10,15 +10,9 @@
 
 <p align="center">
   <code>CMU ECE Graduate</code> ·
-  <code>Python / C++ / PyTorch / CUDA / ROS2</code>
 </p>
 
----
 
-## Toolbox
-
-`Python` · `C++` · `PyTorch` · `OpenCV` · `ROS2` · `CUDA` · `Linux` · `Git`  
-`YOLO` · `ViT` · `DINOv2` · `BEV perception` · `multi-task vision`
 
 ## Contact
 Email: `yuhengzhang3@outlook.com`
