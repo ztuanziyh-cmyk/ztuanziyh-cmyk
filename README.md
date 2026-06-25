@@ -1,18 +1,46 @@
-## Hi there 👋
+<h1 align="center">Yuheng Zhang</h1>
 <p align="center">
-  <img src="./assets/shark.png" width="100%" />
+  Computer Vision · Robotics · Autonomous Driving
 </p>
-<!--
-**ztuanziyh-cmyk/ztuanziyh-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Graduated. Still debugging.</i>
+</p>
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+$ whoami
+CMU ECE graduate
+$ status
+training logs survived, bugs unresolved
+$ interests
+vision systems that work beyond clean demos
+$ enemies
+yaml files, CUDA memory errors, silent bugs, unstable checkpoints
+</pre>
+
+⸻
+
+I care about
+
+* clean baselines
+* reproducible experiments
+* bad case analysis
+* simple code
+* results that survive real testing
+
+⸻
+
+Toolbox
+
+<pre>
+Python / C++ / PyTorch / OpenCV / ROS2 / CUDA / Linux / Git
+YOLO / ViT / DINOv2 / BEV perception / multi-task vision
+</pre>
+
+⸻
+
+Contact
+
+GitHub: ztuanziyh-cmyk
+Email: yuhengzhang3@outlook.com
