@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./assets/shark.png" width="100%" />
+</p>
 <!--
 **ztuanziyh-cmyk/ztuanziyh-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
