@@ -12,7 +12,5 @@
   <code>CMU ECE Graduate</code> ·
 </p>
 
-
-
 ## Contact
 Email: `yuhengzhang3@outlook.com`
