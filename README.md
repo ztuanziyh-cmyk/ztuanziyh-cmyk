@@ -15,33 +15,10 @@
 
 ---
 
-## Status
-
-<pre>
-$ whoami
-vision engineer, recently escaped from graduate school
-
-$ interests
-perception systems that work beyond clean demos
-
-$ enemies
-yaml files, CUDA memory errors, silent bugs, unstable checkpoints
-</pre>
-
-## I care about
-
-- clean baselines
-- reproducible experiments
-- bad case analysis
-- simple code
-- results that survive real testing
-
 ## Toolbox
 
 `Python` · `C++` · `PyTorch` · `OpenCV` · `ROS2` · `CUDA` · `Linux` · `Git`  
 `YOLO` · `ViT` · `DINOv2` · `BEV perception` · `multi-task vision`
 
 ## Contact
-
-GitHub: `ztuanziyh-cmyk`  
 Email: `yuhengzhang3@outlook.com`
